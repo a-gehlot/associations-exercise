@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 **Associations!**
 
 Welcome to the associations exercise.
@@ -11,7 +10,3 @@ The database has already been created and is standing by for your usage.
 
 [schema]: ./db/schema.rb
 [seedfile]: ./db/seeds.rb
-=======
-# associations-exercise
-practicing associations in rails
->>>>>>> a4d85cea0ca2b91c937d718bf24aac0e58f753a5
