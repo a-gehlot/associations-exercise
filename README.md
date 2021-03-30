@@ -1,12 +1,9 @@
 **Associations!**
 
-Welcome to the associations exercise.
+Goals:
 
-Check out the [`db/schema.rb`][schema] to see what your database will look like.
-
-Check out [`db/seeds.rb`][seedfile] to see what test data your database contains.
-
-The database has already been created and is standing by for your usage.
-
-[schema]: ./db/schema.rb
-[seedfile]: ./db/seeds.rb
+1. Understand what an ActiveRecord association represents
+2. Know when to use has_many vs. belongs_to
+3. Be able to write has_many and belongs_to associations
+4. Know what variables to use as primary_key, foreign_key, and class_name
+5. Know how to use ActiveRecord associations to return associated objects
